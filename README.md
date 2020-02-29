@@ -25,7 +25,7 @@ The user should be able to:
 ## Submission on BCS
 
 # Repo Details 
-https://github.com/ka-vang/ka-vang.github.io/tree/master/homework18
+https://github.com/ka-vang/homework18
 
 # Server Deployed
 https://
